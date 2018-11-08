@@ -7,6 +7,7 @@
 
 ### 特别说明
 
+[原项目地址](https://github.com/hujiulong/simple-react)
 作者原项目是配合讲解文档的，但是因为我会对项目有较大的改动，跟原文档会有不少的出入，所以此处将原文档的 README 删掉
 
 
@@ -23,7 +24,7 @@
 
 ### v1.0分支
 
-基础组件、生命周期、基本render方法等
+react-dom 的 render 方法、生命周期、基本 render 方法等
 
 ### v2.0分支
 
