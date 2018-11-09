@@ -12,8 +12,16 @@ class App extends React.Component {
   }
 }
 
+let a = <App name="ronffy" />;
+
+let b = <div><span>你好：</span>ronffy</div>
+
+console.log('a:', a);
+console.log('b:', b);
+
+
 // ReactDOM.render
 ReactDOM.render(
-  <App name="ronffy" />,
+  a,
   document.getElementById('root')
 );
