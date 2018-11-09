@@ -23,6 +23,10 @@
 
 ## 介绍
 
+### 概览
+
+![](./skillTree.jpg)
+
 ### v1.0分支
 
 react-dom 的 render 方法、生命周期、基本 render 方法等
